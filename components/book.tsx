@@ -26,7 +26,7 @@ const Book: React.FC = () => {
     {
       id: "001",
       title: "001",
-      description: "Type bolt.new in your browser to instantly open a coding workspace. No installation required."
+      description: "Type vyyuf.new in your browser to instantly open a coding workspace. No installation required."
     },
     {
       id: "002",
@@ -36,12 +36,12 @@ const Book: React.FC = () => {
     {
       id: "003",
       title: "003",
-      description: "bolt.new is perfect for prototyping. Test ideas quickly without worrying about setup overhead."
+      description: "vyyuf.new is perfect for prototyping. Test ideas quickly without worrying about setup overhead."
     },
     {
       id: "004",
       title: "004",
-      description: "Ask the AI to explain snippets of code. bolt.new isn’t just a tool for building—it’s also a great way to learn."
+      description: "Ask the AI to explain snippets of code. vyyuf.new isn't just a tool for building—it's also a great way to learn."
     },
     {
       id: "005",
@@ -51,7 +51,7 @@ const Book: React.FC = () => {
     {
       id: "006",
       title: "006",
-      description: "Since it’s made by Vercel, bolt.new integrates seamlessly with deployment workflows. Take projects from idea to live app quickly."
+      description: "Since it's made by Vercel, vyyuf.new integrates seamlessly with deployment workflows. Take projects from idea to live app quickly."
     }
   ];
 
@@ -196,7 +196,7 @@ const Book: React.FC = () => {
                   className="w-32 h-auto mb-6 filter brightness-0 invert"
                 />
                 <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: 'Bricolage Grotesque, sans-serif' }}>
-                  bolt.tips
+                  vyyuf.tips
                 </h1>
                 <p className={`text-lg ${instrumentSerif.className}`} style={{ fontStyle: 'italic', opacity: 0.9 }}>
                   Code instantly. Powered by AI.
@@ -233,7 +233,7 @@ const Book: React.FC = () => {
                   Thanks for Reading
                 </h1>
                 <p className={`text-lg ${instrumentSerif.className}`} style={{ fontStyle: 'italic', opacity: 0.9 }}>
-                  Start building at <strong>bolt.new</strong>
+                  Start building at <strong>vyyuf.new</strong>
                 </p>
               </div>
               
